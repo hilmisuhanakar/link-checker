@@ -25,4 +25,4 @@ The Link Checker Extension is a Chrome extension used to check URL links on web 
 1. Clone or download this project to your local machine:
 
    ```bash
-   git clone https://github.com/username/link-checker-extension.git
+   git clone https://github.com/hilmisuhanakar/link-checker.git
