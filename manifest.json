@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Link Checker",
+  "version": "1.0",
+  "description": "Check the status of multiple links at once",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": ["http://*/*", "https://*/*"]
+}
